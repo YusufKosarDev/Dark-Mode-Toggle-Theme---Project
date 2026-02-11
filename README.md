@@ -1,4 +1,5 @@
 **Dark Mode Toggle Theme Project**
+
 This is a simple yet practical Dark Mode Toggle application built with JavaScript. It is a single-page project designed to demonstrate theme switching using a toggle button with clean and minimal logic.
 
 **📝 What Does It Do?**
@@ -10,6 +11,7 @@ Dynamic UI Update: Changes background colors, text colors, and overall theme in 
 
 User-Friendly Design: Provides a smooth and intuitive interaction through a toggle button.
 
+
 **⚙️ How Does It Work?**
 The project is based on DOM manipulation and conditional logic in JavaScript:
 
@@ -20,6 +22,7 @@ Element Selection: JavaScript selects the toggle button and main elements using 
 Toggle Logic: A click event listener checks the current theme and switches it accordingly.
 
 Class Manipulation: The script adds or removes a dark-mode class to the <body> element to apply the theme change.
+
 
 **🎓 What Have I Learned?**
 Building this project helped me improve my understanding of:
